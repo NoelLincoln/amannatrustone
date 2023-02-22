@@ -297,12 +297,12 @@ a:focus {
     
     .navbar.nav-sticky {
         padding: 10px 60px;
-        background: #20212B !important;
+        background: #834680 !important;
         border-bottom: none;
     }
     
     .page .navbar {
-        background: #20212B !important;
+        background: #834680 !important;
     }
     
     .navbar a.nav-link {
@@ -2027,7 +2027,7 @@ a:focus {
     position: relative;
     margin-top: 45px;
     padding-top: 90px;
-    background: #20212B;
+    background: #834680;
 }
 
 .footer .footer-contact,
